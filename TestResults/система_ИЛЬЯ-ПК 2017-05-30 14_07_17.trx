@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="17b88f72-22d8-4226-819b-648d566cb2a6" name="система@ИЛЬЯ-ПК 2017-05-30 14:07:17" runUser="NT AUTHORITY\система" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2017-05-30T14:07:17.2422904+04:00" queuing="2017-05-30T14:07:17.2422904+04:00" start="2017-05-30T14:07:16.3082537+04:00" finish="2017-05-30T14:07:21.0264432+04:00" />
+  <TestSettings name="default" id="202b692e-f2df-4501-8a2a-eb18ecc91c9f">
+    <Execution>
+      <TestTypeSpecific />
+    </Execution>
+    <Deployment runDeploymentRoot="система_ИЛЬЯ-ПК 2017-05-30 14_07_17" />
+    <Properties />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="10e976a2-4f20-4195-860c-8d4adbe15c30" testId="ee84412f-cd14-0325-8923-06822d7116a6" testName="TestMethod1" computerName="ИЛЬЯ-ПК" duration="00:00:00.0229893" startTime="2017-05-30T14:07:16.3082537+04:00" endTime="2017-05-30T14:07:16.7312684+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="10e976a2-4f20-4195-860c-8d4adbe15c30">
+      <Output>
+        <StdOut>36</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\program files (x86)\jenkins\workspace\unit tests\unittest1\bin\debug\unittest1.dll" id="ee84412f-cd14-0325-8923-06822d7116a6">
+      <Execution id="10e976a2-4f20-4195-860c-8d4adbe15c30" />
+      <TestMethod codeBase="C:\Program Files (x86)\Jenkins\workspace\Unit tests\Unittest1\bin\Debug\Unittest1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="Unittest1.UnitTest1" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="ee84412f-cd14-0325-8923-06822d7116a6" executionId="10e976a2-4f20-4195-860c-8d4adbe15c30" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <CollectorDataEntries>
+      <Collector agentName="ИЛЬЯ-ПК" uri="datacollector://microsoft/CodeCoverage/2.0" collectorDisplayName="Code Coverage">
+        <UriAttachments>
+          <UriAttachment>
+            <A href="ИЛЬЯ-ПК\система_ИЛЬЯ-ПК 2017-05-30 14_07_10.coverage">
+            </A>
+          </UriAttachment>
+        </UriAttachments>
+      </Collector>
+    </CollectorDataEntries>
+  </ResultSummary>
+</TestRun>

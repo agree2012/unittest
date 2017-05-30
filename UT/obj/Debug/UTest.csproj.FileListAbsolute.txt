@@ -1,0 +1,5 @@
+c:\users\илья\documents\visual studio 2015\Projects\UT\UT\obj\Debug\UT.exe
+c:\users\илья\documents\visual studio 2015\Projects\UT\UT\obj\Debug\UT.pdb
+c:\users\илья\documents\visual studio 2015\Projects\UT\UT\bin\Debug\UT.exe.config
+c:\users\илья\documents\visual studio 2015\Projects\UT\UT\bin\Debug\UT.exe
+c:\users\илья\documents\visual studio 2015\Projects\UT\UT\bin\Debug\UT.pdb
